@@ -36,6 +36,15 @@
 • /resetpower - ᴛᴏ ʀᴇꜱᴇᴛ ᴜꜱᴇʀ ᴘʀᴇᴍɪᴜᴍ
 ```
 
+
+## Deploy to Heroku
+
+Deployment : 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hmabdulkuddusrahul1/Rename-Bot)
+
+
+NOTE: Change the app region to Europe (it will help to make the bot stable)
 <details>
 <summary><h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
